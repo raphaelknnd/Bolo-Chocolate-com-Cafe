@@ -1,6 +1,6 @@
-# Bolo de Chocolate com Café :coffee:
+# Bolo de Chocolate com Café :coffee: 
 
-### Ingredientes
+### Ingredientes :page_with_curl:
 
 - 2 xícaras de farinha de trigo 
 - 1 e 1/2 xícaras de açúcar 
@@ -18,12 +18,12 @@
 - 3 colheres de açúcar  
 - 3 colheres de achocolatado
 
-### Modo de Preparo
+### Modo de Preparo :gear:
 
 1. Em uma vasilha, adicione os ovos e o açúcar e misture
 2. Adicione o óleo e misture
-3. Dissolva o cafée na água e adicione à mistura
-4. Adicion o chocolate em pó  misture bem
+3. Dissolva o café na água e adicione à mistura
+4. Adicione o chocolate em pó  misture bem
 5. Adicione a farinha de trigo aos poucos até estar bem homogênea
 6. Adicione o fermento
 7. Despeje a massa em uma forma untada com margarina e uma mistura de trigo e chocolate em pó e leve ao forno pré aquecido a 180° por +/- :clock10: 40min
