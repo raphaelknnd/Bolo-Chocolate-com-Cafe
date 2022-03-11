@@ -11,7 +11,7 @@
 - 3 colheres de sopa de café solúvel 
 - 1 colher de sopa de fermento em pó
 
-###### Cauda
+###### Calda
 
 - 1 caixinha de creme de leite 
 - 3 colheres rasas de margarina 
